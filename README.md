@@ -29,8 +29,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест sumLastNums](images/task1_2.png)
+<img width="401" height="98" alt="image" src="https://github.com/user-attachments/assets/3d1ab8b7-23f6-40cc-b828-26582ff43886" />
+
 
 ---
 
@@ -48,8 +48,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест isPositive](images/task1_4.png)
+<img width="572" height="94" alt="image" src="https://github.com/user-attachments/assets/cd231532-b27e-4919-b309-b077fc0f46f0" />
+
 
 ---
 
@@ -67,8 +67,10 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест isUpperCase](images/task1_6.png)
+<img width="437" height="104" alt="image" src="https://github.com/user-attachments/assets/2560fd2b-ef97-4a79-8791-f9bb9b23dc7a" />
+
+<img width="420" height="112" alt="image" src="https://github.com/user-attachments/assets/c57445ca-1b43-49c5-8289-49db88a5f618" />
+
 
 ---
 
@@ -86,8 +88,9 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест isDivisor](images/task1_8.png)
+<img width="403" height="151" alt="image" src="https://github.com/user-attachments/assets/19872702-4ce9-4fca-8308-97f01f532dcb" />
+<img width="411" height="147" alt="image" src="https://github.com/user-attachments/assets/ddf364ba-59ad-4d43-a4fd-e9cf010d1ea8" />
+
 
 ---
 
@@ -105,8 +108,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест lastNumSum](images/task1_10.png)
+<img width="396" height="172" alt="image" src="https://github.com/user-attachments/assets/9ea6dc56-bce6-4511-87c0-88351952b147" />
+
 
 ---
 
@@ -126,8 +129,9 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест safeDiv](images/task2_2.png)
+<img width="417" height="169" alt="image" src="https://github.com/user-attachments/assets/613d57f2-6024-459f-b918-7694302b9ccf" />
+<img width="401" height="152" alt="image" src="https://github.com/user-attachments/assets/0353616b-66f0-4bcf-9de4-b5369bd570e0" />
+
 
 ---
 
@@ -144,9 +148,10 @@
 Выполняем проверку чисел относительно друг друга. Результатом метода будет знак, показывающий, что больше, меньше или числа равны.
 
 **Тест**
+<img width="398" height="162" alt="image" src="https://github.com/user-attachments/assets/ced12977-8d99-4a29-90b6-972ff14e0a57" />
+<img width="399" height="143" alt="image" src="https://github.com/user-attachments/assets/e93bdd5b-18cc-4be7-9723-f24bd3344ae8" />
+<img width="404" height="162" alt="image" src="https://github.com/user-attachments/assets/0f43c0c7-effb-4dfe-a97e-cc8d0f810c08" />
 
-<!-- Вставь скриншот сюда -->
-![Тест makeDecision](images/task2_4.png)
 
 ---
 
@@ -164,8 +169,9 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест sum3](images/task2_6.png)
+<img width="413" height="194" alt="image" src="https://github.com/user-attachments/assets/735ed0f1-8875-419e-b351-9bb3a91c1827" />
+<img width="385" height="202" alt="image" src="https://github.com/user-attachments/assets/77bd4cdc-4cba-484e-983c-36da53decf38" />
+
 
 ---
 
@@ -187,8 +193,9 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест age](images/task2_8.png)
+<img width="397" height="100" alt="image" src="https://github.com/user-attachments/assets/11b52d7f-4b6c-48f2-bc74-eab4622010d8" />
+<img width="419" height="119" alt="image" src="https://github.com/user-attachments/assets/6589cea5-20e6-473c-aafc-a5ff7469940c" />
+
 
 ---
 
@@ -206,8 +213,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест printDays](images/task2_10.png)
+<img width="387" height="162" alt="image" src="https://github.com/user-attachments/assets/e5a94bd2-eca2-4691-9b52-032c96b68dba" />
+
 
 ---
 
@@ -227,8 +234,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест reverseListNums](images/task3_2.png)
+<img width="402" height="103" alt="image" src="https://github.com/user-attachments/assets/ab78a4cf-9ae3-42fb-ad05-6e838846cecd" />
+
 
 ---
 
@@ -246,8 +253,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест pow](images/task3_4.png)
+<img width="408" height="143" alt="image" src="https://github.com/user-attachments/assets/5d4e4717-be87-4e60-88db-80f7efdfd344" />
+
 
 ---
 
@@ -265,8 +272,9 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест equalNum](images/task3_6.png)
+<img width="398" height="98" alt="image" src="https://github.com/user-attachments/assets/92916b5e-eca7-40f0-93b4-48a3d67ef2bd" />
+<img width="395" height="104" alt="image" src="https://github.com/user-attachments/assets/2b8def5d-a636-4a0d-8a65-2af86a3c4fe7" />
+
 
 ---
 
@@ -284,8 +292,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест leftTriangle](images/task3_8.png)
+<img width="400" height="193" alt="image" src="https://github.com/user-attachments/assets/d9a91909-66e7-42c2-91b1-3b0de4eff389" />
+
 
 ---
 
@@ -302,9 +310,8 @@
 Через `Random` загадывается случайное число от 0 до 9, затем через цикл `while` и проверки на ввод происходит проверка введённого числа пользователем. Если совпало — выводит число попыток и то, что он угадал, иначе сообщает, что пользователь не угадал, и просит ввести число ещё раз.
 
 **Тест**
+<img width="500" height="258" alt="image" src="https://github.com/user-attachments/assets/cb685c57-6a5a-4a72-90eb-4ecdfb5127a7" />
 
-<!-- Вставь скриншот сюда -->
-![Тест guessGame](images/task3_10.png)
 
 ---
 
@@ -324,8 +331,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест findLast](images/task4_2.png)
+<img width="416" height="130" alt="image" src="https://github.com/user-attachments/assets/a36f6e9d-a268-4c8d-8bb3-4eb615171a74" />
+
 
 ---
 
@@ -343,8 +350,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест add](images/task4_4.png)
+<img width="398" height="196" alt="image" src="https://github.com/user-attachments/assets/c2e560ac-fdeb-443f-a3c0-6a9236654e26" />
+
 
 ---
 
@@ -362,8 +369,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест reverse](images/task4_6.png)
+<img width="394" height="85" alt="image" src="https://github.com/user-attachments/assets/497c8726-6968-4d0b-8eb7-decc9e6289cd" />
+
 
 ---
 
@@ -381,8 +388,8 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест concat](images/task4_8.png)
+<img width="387" height="94" alt="image" src="https://github.com/user-attachments/assets/46b83d38-7256-4a96-a269-31aa7ec01792" />
+
 
 ---
 
@@ -400,16 +407,24 @@
 
 **Тест**
 
-<!-- Вставь скриншот сюда -->
-![Тест deleteNegative](images/task4_10.png)
+<img width="407" height="72" alt="image" src="https://github.com/user-attachments/assets/973083c2-a03b-4c4c-80f4-580a1c8bdef3" />
+
 
 ---
 
-## 🛠 Стек
 
-- C#
-- .NET
-- Visual Studio 2022
+**Тесты на ввод**
+<img width="400" height="308" alt="image" src="https://github.com/user-attachments/assets/a3d3c265-c152-4ea6-869d-b61ddd87997f" />
+<img width="454" height="389" alt="image" src="https://github.com/user-attachments/assets/1d9b4ad2-b8ca-45ed-a006-1e3998f71497" />
+
+
+<img width="383" height="328" alt="image" src="https://github.com/user-attachments/assets/b9181939-ba5d-4536-93bc-9a687b412f10" />
+
+<img width="418" height="295" alt="image" src="https://github.com/user-attachments/assets/0610f064-39c5-44ed-a442-e2a0afcba4b6" />
+
+
+
+
 
 
 
