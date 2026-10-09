@@ -730,6 +730,7 @@ class Program
                         Console.WriteLine("Нажмите Enter, чтобы продолжить.");
                         Console.ReadKey();
                         break;
+
                     }
             }
 
