@@ -15,7 +15,7 @@ class Program
         Console.WriteLine("Выберете пункт (0-4)");
     }
 
-    void Zadanie1()
+    void Task1()
     {
         Console.Clear();
         Console.WriteLine("Методы\n");
@@ -28,10 +28,10 @@ class Program
         Console.WriteLine("Выберете пункт (0-5)");
     }
 
-    void Zadanie2()
+    void Task2()
     {
         Console.Clear();
-        Console.WriteLine("Методы\n");
+        Console.WriteLine("Условия\n");
         Console.WriteLine("1) 2 - Безопасное деление.   ");
         Console.WriteLine("2) 4 - Строка сравнения.  ");
         Console.WriteLine("3) 6 - Тройная сумма. ");
@@ -41,10 +41,10 @@ class Program
         Console.WriteLine("Выберете пункт (0-5)");
     }
 
-    void Zadanie3()
+    void Task3()
     {
         Console.Clear();
-        Console.WriteLine("Методы\n");
+        Console.WriteLine("Циклы\n");
         Console.WriteLine("1) 2 - Числа наоборот.  ");
         Console.WriteLine("2) 4 - Степень числа. ");
         Console.WriteLine("3) 6 - Одинаковость. ");
@@ -54,10 +54,10 @@ class Program
         Console.WriteLine("Выберете пункт (0-5)");
     }
 
-    void Zadanie4()
+    void Task4()
     {
         Console.Clear();
-        Console.WriteLine("Методы\n");
+        Console.WriteLine("Массивы\n");
         Console.WriteLine("1) 2 - Поиск последнего значения.  ");
         Console.WriteLine("2) 4 - Добавление в массив. ");
         Console.WriteLine("3) 6 - Реверс.  ");
@@ -74,7 +74,7 @@ class Program
     private static void Main(String[] args)
     {
         Random random = new Random();
-        Laba labs = new Laba();
+        Tasks labs = new Tasks();
         Program prog = new Program();
 
         bool exit = false;
@@ -89,7 +89,7 @@ class Program
             {
                 case "1":
                     {
-                        prog.Zadanie1();
+                        prog.Task1();
                         String choiceIn = Console.ReadLine();
 
                         switch (choiceIn)
@@ -98,7 +98,7 @@ class Program
                                 {
                                     Console.WriteLine("Введите число не меньше 10: ");
                                     String str = Console.ReadLine();
-                                    int n;
+                                    int n = 0;
 
                                     if (!int.TryParse(str, out n))
                                     {
@@ -116,7 +116,7 @@ class Program
                                 {
                                     Console.WriteLine("Введите положительное или отрицательное число:");
                                     String str = Console.ReadLine();
-                                    int n;
+                                    int n = 0;
 
                                     if (!int.TryParse(str, out n))
                                     {
@@ -150,8 +150,8 @@ class Program
                                     Console.WriteLine("Введите 1-e числo:");
 
                                     String str1 = Console.ReadLine();
-                                    int n1;
-                                    int n2;
+                                    int n1 = 0;
+                                    int n2 = 0;
 
                                     if (!int.TryParse(str1, out n1))
                                     {
@@ -184,8 +184,8 @@ class Program
                                     Console.WriteLine("Введите 1-e числo:");
 
                                     String str1 = Console.ReadLine();
-                                    int n1;
-                                    int n2;
+                                    int n1 = 0;
+                                    int n2 = 0;
 
                                     if (!int.TryParse(str1, out n1))
                                     {
@@ -232,7 +232,7 @@ class Program
 
                 case "2":
                     {
-                        prog.Zadanie2();
+                        prog.Task2();
                         String choiceIn = Console.ReadLine();
 
                         switch (choiceIn)
@@ -242,8 +242,8 @@ class Program
                                     Console.WriteLine("Введите числитель:");
 
                                     String str1 = Console.ReadLine();
-                                    int n1;
-                                    int n2;
+                                    int n1 = 0;
+                                    int n2 = 0;
 
                                     if (!int.TryParse(str1, out n1))
                                     {
@@ -273,8 +273,8 @@ class Program
                                     Console.WriteLine("Введите 1-e числo:");
 
                                     String str1 = Console.ReadLine();
-                                    int n1;
-                                    int n2;
+                                    int n1 = 0;
+                                    int n2 = 0;
 
                                     if (!int.TryParse(str1, out n1))
                                     {
@@ -304,9 +304,9 @@ class Program
                                     Console.WriteLine("Введите 1-e числo:");
 
                                     String str1 = Console.ReadLine();
-                                    int n1;
-                                    int n2;
-                                    int n3;
+                                    int n1 = 0;
+                                    int n2 = 0;
+                                    int n3 = 0;
 
                                     if (!int.TryParse(str1, out n1))
                                     {
@@ -346,7 +346,7 @@ class Program
                                 {
                                     Console.WriteLine("Введите возраст: ");
                                     String str = Console.ReadLine();
-                                    int n;
+                                    int n = 0;
 
                                     if (!int.TryParse(str, out n))
                                     {
@@ -390,7 +390,7 @@ class Program
 
                 case "3":
                     {
-                        prog.Zadanie3();
+                        prog.Task3();
                         String choiceIn = Console.ReadLine();
 
                         switch (choiceIn)
@@ -399,7 +399,7 @@ class Program
                                 {
                                     Console.WriteLine("Введите число: ");
                                     String str = Console.ReadLine();
-                                    int n;
+                                    int n = 0;
 
                                     if (!int.TryParse(str, out n))
                                     {
@@ -416,8 +416,8 @@ class Program
                                 {
                                     Console.WriteLine("Введите число: ");
                                     String str1 = Console.ReadLine();
-                                    int n1;
-                                    int n2;
+                                    int n1 = 0;
+                                    int n2 = 0;
 
                                     if (!int.TryParse(str1, out n1))
                                     {
@@ -447,7 +447,7 @@ class Program
                                 {
                                     Console.WriteLine("Введите число: ");
                                     String str = Console.ReadLine();
-                                    int n;
+                                    int n = 0;
 
                                     if (!int.TryParse(str, out n))
                                     {
@@ -464,7 +464,7 @@ class Program
                                 {
                                     Console.WriteLine("Введите количество *: ");
                                     String str = Console.ReadLine();
-                                    int n;
+                                    int n = 0;
 
                                     if (!int.TryParse(str, out n))
                                     {
@@ -501,7 +501,7 @@ class Program
                     }
                 case "4":
                     {
-                        prog.Zadanie4();
+                        prog.Task4();
                         String choiceIn = Console.ReadLine();
 
                         switch (choiceIn)
@@ -524,7 +524,7 @@ class Program
 
                                     Console.WriteLine("Введите число: ");
                                     String str = Console.ReadLine();
-                                    int n;
+                                    int n = 0;
 
                                     if (!int.TryParse(str, out n))
                                     {
@@ -557,8 +557,8 @@ class Program
 
                                     Console.WriteLine("Введите число: ");
                                     String str1 = Console.ReadLine();
-                                    int n1;
-                                    int n2;
+                                    int n1 = 0;
+                                    int n2 = 0;
 
                                     if (!int.TryParse(str1, out n1))
                                     {
@@ -700,6 +700,10 @@ class Program
 
                                     Console.WriteLine("Нажмите Enter, чтобы продолжить.");
                                     Console.ReadKey();
+                                    break;
+                                }
+                            case "0":
+                                {
                                     break;
                                 }
 

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Laba_1c_;
 
-internal class Laba
+internal class Tasks
 {
     Random random = new Random();
     
@@ -178,12 +178,25 @@ internal class Laba
     public String reverseListNums(int x) //3.2
     {
         String result = "";
-        for (int i = x; i >= 0; i--)
+
+        if (x > 0)
         {
-            result += i + " ";
-           
+            for (int i = x; i >= 0; i--)
+            {
+                result += i + " ";
+
+            }
+            return result;
         }
-        return result;
+        else
+        {
+            for (int i = x; i <= 0; i++)
+            {
+                result += i + " ";
+
+            }
+            return result;
+        }
     }
 
     public int pow(int x, int y) //3.4
@@ -254,7 +267,7 @@ internal class Laba
         {
 
             String str = Console.ReadLine();
-            int n;
+            int n = 0;
 
             if (!int.TryParse(str, out n))
             {
@@ -352,7 +365,7 @@ internal class Laba
         int[] matrix = new int[n];
 
         int j = 0;
-        for (int i = 0; i < arr.Length; i++)   // ← идём по ВСЕМУ arr
+        for (int i = 0; i < arr.Length; i++)   
         {
             if (arr[i] >= 0)
             {
